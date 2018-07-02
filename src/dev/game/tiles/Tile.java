@@ -21,6 +21,7 @@ public class Tile {
     public static Tile edificio2_2 = new Edificio2_2(8);
     public static Tile edificio3_1 = new Edificio3_1(9);
     public static Tile edificio3_2 = new Edificio3_2(10);
+    public static Tile plataforma = new Plataforma(11);
    
     
     protected BufferedImage texture;
